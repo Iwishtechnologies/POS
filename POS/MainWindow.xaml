@@ -7,7 +7,7 @@
         xmlns:local="clr-namespace:POS"
         mc:Ignorable="d"
                       
-        Title="Login"
+        Title="Login | Iwish Technologies"
         ResizeMode="NoResize"
         TitlebarHeight="0"
         ShowIconOnTitleBar="True"
